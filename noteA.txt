@@ -1,1 +1,5 @@
 Adding text - saved, staged, committed
+
+
+change made in local copy - to be pushed to central repository
+also merge with master
