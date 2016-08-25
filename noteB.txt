@@ -1,4 +1,8 @@
 text added to NoteB - saved, staged, committed - to be pushed to Central Repository
 
 
+
+
+text modified frm GitHub central repository
+
 text modified in local machine from copy of central repository - already this file is modified from Github
